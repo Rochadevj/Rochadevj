@@ -10,6 +10,8 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@v3
