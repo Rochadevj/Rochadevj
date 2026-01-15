@@ -31,18 +31,10 @@ Estou sempre buscando evoluir tecnicamente, aprendendo novas tecnologias e aplic
 
 ---
 
-## 📊 WakaTime – Atividade Semanal
+
+## 📊 Esta semana eu gastei meu tempo em:
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               2 mins              ██████████████████████░░░   89.14 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 
