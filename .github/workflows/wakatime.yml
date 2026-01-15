@@ -19,8 +19,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: false
-          DEBUG_LOGGING: true
