@@ -2,7 +2,8 @@
 
 # Olá! Sou o Henrique Rocha 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;React+%7C+TypeScript+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+modernas)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -20,14 +21,18 @@ Estou sempre buscando evoluir tecnicamente, aprendendo novas tecnologias e aplic
 <div align="center">
 
 <a href="https://henriquerocha.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-henriquerocha.vercel.app-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-E63946?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Rochadevj&style=flat-square&color=blue" />
+
+<img src="https://komarev.com/ghpvc/?username=Rochadevj&style=for-the-badge&color=111827" />
+
 <a href="https://github.com/Rochadevj?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rochadevj?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-22C55E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
+
+
 
 ---
 
@@ -54,19 +59,26 @@ SQL           27 mins         █▒░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![HTML5](https://img.shields.io/badge/HTML5-1F130D?style=for-the-badge&logo=html5&logoColor=FB923C)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA)
+![Java](https://img.shields.io/badge/Java-1C1917?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A5B4FC)
+
+![MySQL](https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=93C5FD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
+![Supabase](https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![GitLab](https://img.shields.io/badge/GitLab-3B1F2B?style=for-the-badge&logo=gitlab&logoColor=FCA5A5)
+![WordPress](https://img.shields.io/badge/WordPress-1F2937?style=for-the-badge&logo=wordpress&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux%20Ubuntu-2B1B1B?style=for-the-badge&logo=ubuntu&logoColor=FB7185)
+
+</div>
+
+
 
 </div>
 
