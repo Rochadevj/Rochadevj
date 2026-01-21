@@ -42,11 +42,11 @@ Estou sempre buscando evoluir tecnicamente, aprendendo novas tecnologias e aplic
 <!--START_SECTION:waka-->
 
 ```txt
-PHP           3 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   31.55 %
-TypeScript    2 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-JavaScript    1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-Other         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-SQL           27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+TypeScript    3 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.16 %
+PHP           3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
+JavaScript    1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Other         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Bash          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
