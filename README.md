@@ -84,9 +84,9 @@ Markdown        31 mins         ▓░░░░░░░░░░░░░░░
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rochadevj&theme=tokyo-night&hide_border=true&line=ff4d4d&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rochadevj&theme=tokyo-night&hide_border=true&line=ff4d4d&point=a5b4fc&color=a5b4fc&title_color=a5b4fc" />
 
 ---
 
