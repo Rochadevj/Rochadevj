@@ -94,7 +94,6 @@ SQL             41 mins         █░░░░░░░░░░░░░░░
 </p>
 
 <hr/>
----
 
 ## 🌐 Conecte-se comigo
 
@@ -110,7 +109,7 @@ SQL             41 mins         █░░░░░░░░░░░░░░░
 
 <div align="center">
   
-### 💡 "Transformando ideias em soluções reais através da tecnologia"
+###  "Transformando ideias em soluções reais através da tecnologia"
 
 [![GitHub followers](https://img.shields.io/github/followers/Rochadevj?label=follow&style=social)](https://github.com/Rochadevj)
 
