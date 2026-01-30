@@ -86,8 +86,14 @@ SQL             41 mins         █░░░░░░░░░░░░░░░
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rochadevj&theme=tokyo-night&hide_border=true&line=ff4d4d&point=a5b4fc&color=a5b4fc&title_color=a5b4fc" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rochadevj&bg_color=0d1117&color=C9D1D9&line=3b82f6&point=60a5fa&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
 
+<hr/>
 ---
 
 ## 🌐 Conecte-se comigo
