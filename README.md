@@ -63,7 +63,7 @@ SQL             41 mins         ▓░░░░░░░░░░░░░░░
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FACC15)
 ![HTML5](https://img.shields.io/badge/HTML5-1F130D?style=for-the-badge&logo=html5&logoColor=FB923C)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/Java-1C1917?style=for-the-badge&logo=openjdk&logoColor=F97316)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A5B4FC)
 
@@ -71,10 +71,13 @@ SQL             41 mins         ▓░░░░░░░░░░░░░░░
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
 ![Supabase](https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-1E40AF?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-3B1F2B?style=for-the-badge&logo=gitlab&logoColor=FCA5A5)
 ![WordPress](https://img.shields.io/badge/WordPress-1F2937?style=for-the-badge&logo=wordpress&logoColor=38BDF8)
 ![Linux](https://img.shields.io/badge/Linux%20Ubuntu-2B1B1B?style=for-the-badge&logo=ubuntu&logoColor=FB7185)
+
 
 </div>
 
