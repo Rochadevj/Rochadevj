@@ -2,7 +2,8 @@
 
 # Olá! Sou o Henrique Rocha 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;React+%7C+TypeScript+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+modernas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;React+%7C+TypeScript+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+modernas)](https://git.io/typing-svg)
+
 
 
 </div>
@@ -11,10 +12,11 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Fullstack**, apaixonado por criar aplicações web modernas, escaláveis e focadas no usuário.  
-Gosto de atuar em todas as camadas do desenvolvimento — desde interfaces limpas e responsivas até a construção de APIs e serviços de backend bem estruturados.
+- Sou Desenvolvedor Fullstack, apaixonado por criar aplicações web modernas, escaláveis e focadas no usuário.  
+- Gosto de atuar em todas as camadas do desenvolvimento — desde interfaces limpas e responsivas até a construção de APIs e serviços de backend bem estruturados.  
+- Também tenho grande interesse em automações e otimização de processos, buscando sempre tornar sistemas e rotinas mais eficientes.  
+- Estou sempre evoluindo tecnicamente, aprendendo novas tecnologias e aplicando boas práticas de desenvolvimento.  
 
-Estou sempre buscando evoluir tecnicamente, aprendendo novas tecnologias e aplicando boas práticas de desenvolvimento.
 
 ---
 
@@ -37,7 +39,7 @@ Estou sempre buscando evoluir tecnicamente, aprendendo novas tecnologias e aplic
 ---
 
 
-## 📊 Esta semana eu gastei meu tempo em:
+## 📊 Esta semana meu foco foi em:
 
 <!--START_SECTION:waka-->
 
