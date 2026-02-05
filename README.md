@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-- Sou Desenvolvedor Fullstack, apaixonado por criar aplicações web modernas, escaláveis e focadas no usuário.  
+- Sou Desenvolvedor Fullstack, focado em criar aplicações web modernas, escaláveis e focadas no usuário.  
 - Gosto de atuar em todas as camadas do desenvolvimento — desde interfaces limpas e responsivas até a construção de APIs e serviços de backend bem estruturados.  
 - Também tenho grande interesse em automações e otimização de processos, buscando sempre tornar sistemas e rotinas mais eficientes.  
 - Estou sempre evoluindo tecnicamente, aprendendo novas tecnologias e aplicando boas práticas de desenvolvimento.  
