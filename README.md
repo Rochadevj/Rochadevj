@@ -62,12 +62,11 @@ Markdown        53 mins         ▓░░░░░░░░░░░░░░░
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A5B4FC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![HTML5](https://img.shields.io/badge/HTML5-1F130D?style=for-the-badge&logo=html5&logoColor=FB923C)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1B4B?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A5B4FC)
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=93C5FD)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
