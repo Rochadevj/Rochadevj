@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá! Sou o Henrique Rocha 👋
+# 👋 Olá, Sou o Henrique Rocha 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;React+%7C+TypeScript+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+modernas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Node.js;Criando+solu%C3%A7%C3%B5es+modernas)](https://git.io/typing-svg)
 
 
 
