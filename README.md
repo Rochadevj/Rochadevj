@@ -23,13 +23,13 @@
 <div align="center">
 
 <a href="https://www.henriquerocha.me/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-E63946?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Rochadevj&style=for-the-badge&color=111827" />
 
 <a href="https://github.com/Rochadevj?tab=followers">
-  <img src="https://img.shields.io/badge/GitHub-Follow-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -105,9 +105,9 @@ Markdown     10 mins               ▓░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-henriquerocha.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.henriquerocha.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Rocha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrique-rocha-389609287/)
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:henriquerocha1357@gmail.com)
+[![Website](https://img.shields.io/badge/Website-henriquerocha.me-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.henriquerocha.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Rocha-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-rocha-389609287/)
+[![Email](https://img.shields.io/badge/Email-Contato-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquerocha1357@gmail.com)
 
 </div>
 
