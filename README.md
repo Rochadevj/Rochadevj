@@ -57,7 +57,7 @@ Other        17 mins               █▒░░░░░░░░░░░░░
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
@@ -80,10 +80,10 @@ Other        17 mins               █▒░░░░░░░░░░░░░
 ![Linux](https://img.shields.io/badge/Linux%20Ubuntu-2B1B1B?style=for-the-badge&logo=ubuntu&logoColor=FB7185)
 ![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge&logo=n8n&logoColor=F97316)
 
-
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
 
 
 </div>
@@ -92,12 +92,14 @@ Other        17 mins               █▒░░░░░░░░░░░░░
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rochadevj&bg_color=0d1117&color=C9D1D9&line=3b82f6&point=60a5fa&area=true&hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rochadevj&theme=github_dark"
+  alt="GitHub Profile Details"
+/>
+
+</div>
 
 <hr/>
 
