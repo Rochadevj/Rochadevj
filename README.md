@@ -95,7 +95,7 @@ Markdown     22 mins               █▓░░░░░░░░░░░░░
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rochadevj&theme=github_dark"
+  src="https://raw.githubusercontent.com/Rochadevj/Rochadevj/main/profile-summary-card-output/github_dark/0-profile-details.svg"
   alt="GitHub Profile Details"
 />
 
